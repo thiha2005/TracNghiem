@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\migrations\\20241122071050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\migrations\\20241122071050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\thanhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\thanhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\mucdocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\mucdocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\controllers\\dethicauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\controllers\\dethicauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|c:\\users\\pc\\desktop\\kep toc\\tracnghiem\\tracnghiem\\models\\tracnghiemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFB40A1-759D-4DE0-BBBB-C5638B489685}|TracNghiem\\TracNghiem.csproj|solutionrelative:tracnghiem\\models\\tracnghiemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241122071050_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Migrations\\20241122071050_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Migrations\\20241122071050_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Migrations\\20241122071050_InitialCreate.cs",
+              "RelativeToolTip": "TracNghiem\\Migrations\\20241122071050_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:10:50.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThanhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\ThanhVienController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\ThanhVienController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\ThanhVienController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\ThanhVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:02:37.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MucDoController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\MucDoController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\MucDoController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\MucDoController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\MucDoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:02:10.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonHocController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\MonHocController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\MonHocController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\MonHocController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\MonHocController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:01:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KetQuaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\KetQuaController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\KetQuaController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\KetQuaController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\KetQuaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:00:56.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeThiController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\DeThiController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\DeThiController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\DeThiController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\DeThiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:59:47.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CauHoiController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\CauHoiController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\CauHoiController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\CauHoiController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\CauHoiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:58:55.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeThiCauHoiController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\DeThiCauHoiController.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Controllers\\DeThiCauHoiController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Controllers\\DeThiCauHoiController.cs",
+              "RelativeToolTip": "TracNghiem\\Controllers\\DeThiCauHoiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:00:18.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CauHoi.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Models\\CauHoi.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Models\\CauHoi.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Models\\CauHoi.cs",
+              "RelativeToolTip": "TracNghiem\\Models\\CauHoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:56:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TracnghiemContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Models\\TracnghiemContext.cs",
+              "RelativeDocumentMoniker": "TracNghiem\\Models\\TracnghiemContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\kep toc\\TracNghiem\\TracNghiem\\Models\\TracnghiemContext.cs",
+              "RelativeToolTip": "TracNghiem\\Models\\TracnghiemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:55:16.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
